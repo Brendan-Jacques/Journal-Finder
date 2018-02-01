@@ -1,0 +1,226 @@
+Name: Brendan Jacques
+Student Id: 01419198
+Due Date: 1/31/18
+Journal Finder Assignment
+
+1) ACM Transactions on Graphics:
+
+@article{Sawhney:2017:BFF:3151031.3132705,
+ author = {Sawhney, Rohan and Crane, Keenan},
+ title = {Boundary First Flattening},
+ journal = {ACM Trans. Graph.},
+ issue_date = {January 2018},
+ volume = {37},
+ number = {1},
+ month = dec,
+ year = {2017},
+ issn = {0730-0301},
+ pages = {5:1--5:14},
+ articleno = {5},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/3132705},
+ doi = {10.1145/3132705},
+ acmid = {3132705},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Discrete differential geometry, conformal geometry, digital geometry processing, surface parameterization},
+} 
+
+@article{Selgrad:2016:CRR:2996392.2953877,
+ author = {Selgrad, Kai and Lier, Alexander and Martinek, Magdalena and Buchenau, Christoph and Guthe, Michael and Kranz, Franziska and Sch\"{a}fer, Henry and Stamminger, Marc},
+ title = {A Compressed Representation for Ray Tracing Parametric Surfaces},
+ journal = {ACM Trans. Graph.},
+ issue_date = {February 2017},
+ volume = {36},
+ number = {1},
+ month = nov,
+ year = {2016},
+ issn = {0730-0301},
+ pages = {5:1--5:13},
+ articleno = {5},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/2953877},
+ doi = {10.1145/2953877},
+ acmid = {2953877},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Production rendering, displacement mapping, subdivision surfaces},
+} 
+
+2) IEEE Transactions on Visualization and Computer Graphics
+
+@ARTICLE{7867820,
+author={J. Barreira and M. Bessa and L. Barbosa and L. Magalhães},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={A Context-Aware Method for Authentically Simulating Outdoors Shadows for Mobile Augmented Reality},
+year={2018},
+volume={24},
+number={3},
+pages={1223-1231},
+keywords={Cameras;Clouds;Estimation;Lighting;Meteorology;Probes;Sun;Augmented reality;context-awareness;photometric registration;shadows coherence},
+doi={10.1109/TVCG.2017.2676777},
+ISSN={1077-2626},
+month={March},}
+
+@ARTICLE{7742381,
+author={D. Holden and J. Saito and T. Komura},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={Learning Inverse Rig Mappings by Nonlinear Regression},
+year={2017},
+volume={23},
+number={3},
+pages={1167-1178},
+keywords={Gaussian processes;computer animation;feedforward neural nets;learning by example;mesh generation;nonlinear programming;regression analysis;3D animation;3D polygon meshes;Gaussian process regression;animation pipelines;animation production;animation sequences;arbitrary rigging;articulated biped characters;character poses;computer animation techniques;deformable characters;facial animation rigs;feedforward neural networks;inverse rig mappings;inverse rig-functions;joint angles;joint positions;learning from example;low level representations;mapping learning;motion synthesis algorithm;nonlinear regression techniques;quadruped characters;surface geometry;vertex coordinates;Aerospace electronics;Animation;Gaussian processes;Joints;Production;Three-dimensional displays;Animation rig;character animation;regression},
+doi={10.1109/TVCG.2016.2628036},
+ISSN={1077-2626},
+month={March},}
+
+3) IEEE Computer Graphics and Applications
+
+@ARTICLE{8103319,
+author={Y. Usui and K. Sato and S. Watabe},
+journal={IEEE Computer Graphics and Applications},
+title={Computer Graphics Animation for Objective Self-Evaluation},
+year={2017},
+volume={37},
+number={6},
+pages={5-9},
+keywords={computer aided instruction;computer animation;image motion analysis;teaching;computer graphics animation;dance teaching;data collection;motion capture;nonqualified dance instructors;objective self-evaluation;student collaborative learning;Animation;Computer graphics;Education;Motion measurement;animation;computer graphics;computer graphics education;motion capture},
+doi={10.1109/MCG.2017.4031074},
+ISSN={0272-1716},
+month={November},}
+
+@ARTICLE{7879123,
+author={G. Singh},
+journal={IEEE Computer Graphics and Applications},
+title={Without a Plan},
+year={2017},
+volume={37},
+number={2},
+pages={4-5},
+keywords={art;image processing;ACDSee Pro;digital artwork;Art;Digital images;Image color analysis;ACDSee Pro;abstract art;computer graphics;digital art},
+doi={10.1109/MCG.2017.17},
+ISSN={0272-1716},
+month={Mar},}
+
+4) ACM SIGGRAPH Computer Graphics
+
+@article{Pietroni:2017:PTD:3130800.3130809,
+ author = {Pietroni, Nico and Tarini, Marco and Vaxman, Amir and Panozzo, Daniele and Cignoni, Paolo},
+ title = {Position-based Tensegrity Design},
+ journal = {ACM Trans. Graph.},
+ issue_date = {November 2017},
+ volume = {36},
+ number = {6},
+ month = nov,
+ year = {2017},
+ issn = {0730-0301},
+ pages = {172:1--172:14},
+ articleno = {172},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/3130800.3130809},
+ doi = {10.1145/3130800.3130809},
+ acmid = {3130809},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {architectural geometry, tensegrity},
+} 
+
+@article{Pejsa:2016:ADG:2980179.2982444,
+ author = {Pejsa, Tomislav and Rakita, Daniel and Mutlu, Bilge and Gleicher, Michael},
+ title = {Authoring Directed Gaze for Full-body Motion Capture},
+ journal = {ACM Trans. Graph.},
+ issue_date = {November 2016},
+ volume = {35},
+ number = {6},
+ month = nov,
+ year = {2016},
+ issn = {0730-0301},
+ pages = {161:1--161:11},
+ articleno = {161},
+ numpages = {11},
+ url = {http://doi.acm.org/10.1145/2980179.2982444},
+ doi = {10.1145/2980179.2982444},
+ acmid = {2982444},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {animation, editing, gaze, motion capture, synthesis},
+} 
+
+5) Computers and Graphics
+
+Wonseop Lee, Hyeong-Seok Ko,
+Heuristic misfit reduction: A programmable approach for 3D garment fit customization,
+Computers & Graphics,
+Volume 71,
+2018,
+Pages 1-13,
+ISSN 0097-8493,
+https://doi.org/10.1016/j.cag.2017.10.004.
+(http://www.sciencedirect.com/science/article/pii/S009784931730170X)
+Keywords: Clothing simulation; Fit customization; Pattern-making; Computer animation
+
+Dominik Herr, Qi Han, Steffen Lohmann, Thomas Ertl,
+Hierarchy-based projection of high-dimensional labeled data to reduce visual clutter,
+Computers & Graphics,
+Volume 62,
+2017,
+Pages 28-40,
+ISSN 0097-8493,
+https://doi.org/10.1016/j.cag.2016.12.004.
+(http://www.sciencedirect.com/science/article/pii/S0097849316301388)
+Keywords: Projection visualization; Information search and retrieval; Clustering; Visual analytics
+
+6) Computer Graphics Forum
+
+@article{12659911220171201,
+Abstract = {We propose a method that allows users to define flow features in form of patterns represented as sparse sets of stream line segments. Our approach finds similar occurrences in the same or other time steps. Related approaches define patterns using dense, local stencils or support only single segments. Our patterns are defined sparsely and can have a significant extent, i.e., they are integration-based and not local. This allows for a greater flexibility in defining features of interest. Similarity is measured using intrinsic curve properties only, which enables invariance to location, orientation, and scale. Our method starts with splitting stream lines using globally consistent segmentation criteria. It strives to maintain the visually apparent features of the flow as a collection of stream line segments. Most importantly, it provides similar segmentations for similar flow structures. For user-defined patterns of curve segments, our algorithm finds similar ones that are invariant to s},
+Author = {Wang, Z. and Esturo, J. Martinez and Seidel, H.-P. and Weinkauf, T.},
+ISSN = {01677055},
+Journal = {Computer Graphics Forum},
+Keywords = {VISUALIZATION, PATTERN perception, FLOW (Fluid dynamics), ALGORITHMS, IMAGINATION, Categories and Subject Descriptors (according to ACM CCS): I.3.3 [Computer Graphics]: Picture/Image Generation-Line and curve generation, pattern search, stream lines, visualization},
+Number = {8},
+Pages = {7 - 18},
+Title = {Stream Line-Based Pattern Search in Flows.},
+Volume = {36},
+URL = {https://umasslowell.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=126599112&site=ehost-live},
+Year = {2017},
+}
+
+@article{11330890120160201,
+Abstract = {We present a review of recent techniques for performing geometric analysis in cultural heritage (CH) applications. The survey is aimed at researchers in the areas of computer graphics, computer vision and CH computing, as well as to scholars and practitioners in the CH field. The problems considered include shape perception enhancement, restoration and preservation support, monitoring over time, object interpretation and collection analysis. All of these problems typically rely on an understanding of the structure of the shapes in question at both a local and global level. In this survey, we discuss the different problem forms and review the main solution methods, aided by classification criteria based on the geometric scale at which the analysis is performed and the cardinality of the relationships among object parts exploited during the analysis. We finalize the report by discussing open problems and future perspectives. [ABSTRACT FROM AUTHOR]},
+Author = {Pintus, Ruggero and Pal, Kazim and Yang, Ying and Weyrich, Tim and Gobbetti, Enrico and Rushmeier, Holly},
+ISSN = {01677055},
+Journal = {Computer Graphics Forum},
+Keywords = {DIGITAL image processing, CULTURAL property, SCANNING systems, COMPUTER graphics research, SHAPE analysis (Computational geometry), CH collection analysis, CH interpretation, CH monitoring, CH preservation, CH restoration, Computer Graphics, Computing Methodologies, cultural heritage (CH) analysis, digital geometry processing, geometric analysis, modelling, object scanning/acquisition, Shape analysis, Shape modeling, shape perception},
+Number = {1},
+Pages = {4 - 31},
+Title = {A Survey of Geometric Analysis in Cultural Heritage.},
+Volume = {35},
+URL = {https://umasslowell.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=113308901&site=ehost-live},
+Year = {2016},
+}
+
+7) Visual Computer (Bibtex reference wasn't available. The below is a manually filled-in template.)
+
+@article{
+Abstract = {In this work, we propose a new method for a fast incremental voxelization of isosurfaces obtained by the trilinear interpolation of 3D data. Our objective consists in the fast generation of subvoxelized isosurfaces extracted by a point-based technique similar to the Dividing Cubes algorithm. Our technique involves neither an exhaustive scan search process nor a graph-based search approach when generating isosurface points. Instead an optimized incremental approach is adopted here for a rapid isosurface extraction. With a sufficient sampling subdivision criteria around critical points, the extracted isosurface is both correct and topologically consistent with respect to the piecewise trilinear interpolant. Furthermore, the discretization scheme used in our method ensures obtaining thin - one voxel width - isosurfaces as compared to the one given by the Dividing Cubes algorithm. The resultant subvoxelized isosurfaces are efficiently tested against all possible configurations of the trilinear interpolant and real-world datasets.},
+Author = {Rachid Namane, Serge Miguet, Fatima Bournghar Oulebsir},
+Journal = {The Visual Computer},
+Pages = {5 - 20},
+Title = {A fast voxelization algorithm for trilinearly interpolated isosurfaces},
+Volume = {34},
+URL = {https://link.springer.com/article/10.1007/s00371-016-1306-0/fulltext.html},
+Year = {2018},
+}
+
+@article{
+Abstract = {This paper proposes a novel application of Visual Assessment of Tendency (VAT)-based hierarchical clustering algorithms (VAT, iVAT, and clusiVAT) for trajectory analysis. We introduce a new clustering based anomaly detection framework named iVAT+ and clusiVAT+ and use it for trajectory anomaly detection. This approach is based on partitioning the VAT-generated Minimum Spanning Tree based on an efficient thresholding scheme. The trajectories are classified as normal or anomalous based on the number of paths in the clusters. On synthetic datasets with fixed and variable numbers of clusters and anomalies, we achieve 98 % classification accuracy. Our two-stage clusiVAT method is applied to 26,039 trajectories of vehicles and pedestrians from a parking lot scene from the real life MIT trajectories dataset. The first stage clusters the trajectories ignoring directionality. The second stage divides the clusters obtained from the first stage by considering trajectory direction. We show that our novel two-stage clusiVAT approach can produce natural and informative trajectory clusters on this real life dataset while finding representative anomalies.},
+Author = {Dheeraj Kumar, James C. Bezdek, Sutharshan Rajasegarar, Christopher Leckie, Marimuthu Palaniswami},
+Journal = {The Visual Computer},
+Pages = {265 - 281},
+Title = {A visual-numeric approach to clustering and anomaly detection for trajectory data},
+Volume = {33},
+URL = {https://link.springer.com/article/10.1007/s00371-015-1192-x},
+Year = {2017},
+}
